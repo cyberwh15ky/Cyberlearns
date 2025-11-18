@@ -93,3 +93,12 @@ Security information and event management (SIEM) platforms are designed to colle
 
 ##### Blockchain
 A relatively new method of storing logs is by using blockchain technologies. Organizations may use blockchain technology to store logs in a decentralized and tamper-resistant manner, ensuring log data integrity.  
+
+
+
+
+
+<img width="1012" height="318" alt="image" src="https://github.com/user-attachments/assets/7d8f1b29-bc39-4384-acc7-7083fd4e802c" />
+● Cortex XDR allows you to rapidly detect and respond to threats across your networks, endpoints, and clouds. It assists SOC analysts by allowing them to view all alerts from all Palo Alto Networks products in one place.  
+● Cortex XSOAR is the industry’s first extended security orchestration and automation platform that simplifies security operations by unifying automation, case management, real-time collaboration, and threat intel management. Cortex XSOAR enables SOC analysts to manage alerts across all sources, standardize processes with playbooks, take action on threat intel, and automate responses for any security use case.  
+● Cortex XSIAM or extended security intelligence and automation management, is a cloud-delivered, integrated SOC platform that unifies key functions, including EDR, XDR, SOAR, ASM, UEBA, TIP, and SIEM. Cortex XSIAM streamlines your cybersecurity infrastructure by consolidating multiple products into a unified platform. This autonomous security platform powers the modern SOC and operates across both  
