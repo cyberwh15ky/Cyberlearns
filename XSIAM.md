@@ -100,5 +100,22 @@ A relatively new method of storing logs is by using blockchain technologies. Org
 
 <img width="1012" height="318" alt="image" src="https://github.com/user-attachments/assets/7d8f1b29-bc39-4384-acc7-7083fd4e802c" />
 ● Cortex XDR allows you to rapidly detect and respond to threats across your networks, endpoints, and clouds. It assists SOC analysts by allowing them to view all alerts from all Palo Alto Networks products in one place.  
+
 ● Cortex XSOAR is the industry’s first extended security orchestration and automation platform that simplifies security operations by unifying automation, case management, real-time collaboration, and threat intel management. Cortex XSOAR enables SOC analysts to manage alerts across all sources, standardize processes with playbooks, take action on threat intel, and automate responses for any security use case.  
+
 ● Cortex XSIAM or extended security intelligence and automation management, is a cloud-delivered, integrated SOC platform that unifies key functions, including EDR, XDR, SOAR, ASM, UEBA, TIP, and SIEM. Cortex XSIAM streamlines your cybersecurity infrastructure by consolidating multiple products into a unified platform. This autonomous security platform powers the modern SOC and operates across both  
+
+Task 4 - Cortex XSIAM Overview  
+Complexity: Easy  
+Product(s): Cortex XSIAM Overview  
+Key takeaways:  
+● Learn about Cortex XSIAM  
+● Familiarize yourself with Cortex XSIAM in the lab environment  
+Cortex XSIAM is an AI-Driven Security Platform designed to help organizations manage their security posture by providing comprehensive visibility across all their data sources including network, cloud, and endpoint environments. In this lab, the user will have limited access (read-only) to an XSIAM cloud tenant. XSIAM is currently only available through the SAAS / Cloud model.  
+
+Key features of XSIAM include:  
+● Security Analytics - XSIAM uses AI and ML algorithms for behavioral analysis, identifying patterns and trends in large volumes of data that could indicate an emerging threat.  
+● Threat Intelligence - The platform applies ML algorithms to analyze threat intelligence data, which helps in identifying patterns and trends that may indicate an emerging threat.  
+● Automated Response - Cortex XSIAM uses AI-powered automation to respond to threats in real-time, reducing the need for human intervention.  
+● Predictive Analytics - Cortex XSIAM leverages ML algorithms to analyze historical data and predict potential threats, helping organizations proactively protect against future attacks.  
+● Continuous Learning - The machine learning algorithms in Cortex XSIAM continuously learn from new data and adjust their models, thereby improving the platform’s accuracy and effectiveness over time.  
