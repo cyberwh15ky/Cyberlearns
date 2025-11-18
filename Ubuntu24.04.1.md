@@ -1,3 +1,5 @@
+在 Ubuntu 上開啟 SSH 所使用的 port（預設是 22），你可以依照以下步驟操作：
+
 > sudo apt update  
 > <img width="840" height="444" alt="image" src="https://github.com/user-attachments/assets/4b969734-c800-402c-8885-f73857cda925" />  
 
