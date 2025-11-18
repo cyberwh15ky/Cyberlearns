@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-site
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: my-site
+  template:
+    metadata:
+      labels:
+        app: my-site
+    spec:
+      containers:
+      - name: my-site
+        image: dockerhub帳號/my-site:latest
+        ports:
+        - containerPort: 3000
