@@ -1,5 +1,7 @@
 NIST（美國國家標準與技術研究院）發佈的 SP 800-61 指南，事件應變生命週期分為四個階段
+
 | Handling an Incident | Description(說明) |
+| --- | --- |
 |1. 準備階段 (Preparation) | 建立工具、培訓團隊及預防措施。 |
 |2. 偵測與分析 (Detection and Analysis) | 發現異常並判定事件影響。 |
 |3. 圍堵、根除與復原 (Containment, Eradication, and Recovery) | 限制損害、移除威脅並恢復系統。 |
