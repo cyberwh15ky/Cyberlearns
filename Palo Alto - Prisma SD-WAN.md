@@ -1,4 +1,4 @@
-######August 31, 2026  
+<img width="952" height="452" alt="image" src="https://github.com/user-attachments/assets/ef4e5f33-0e84-4ba1-818e-902300ae09f5" />######August 31, 2026  
 <img width="763" height="395" alt="image" src="https://github.com/user-attachments/assets/95211025-72b7-4a0e-a9e5-7eec04e56998" />  
 [prisma-sd-wan-instant-on-network-ion-1200.pdf](https://github.com/user-attachments/files/31626716/prisma-sd-wan-instant-on-network-ion-1200.pdf)  
 
@@ -120,6 +120,25 @@ dump device info
 <img width="953" height="589" alt="image" src="https://github.com/user-attachments/assets/376a79ee-a9e3-491d-a010-d790b4c85028" />  
 <img width="956" height="584" alt="image" src="https://github.com/user-attachments/assets/fccb29db-516e-4f0e-a0bc-27bc95e17883" />  
 <img width="956" height="593" alt="image" src="https://github.com/user-attachments/assets/0b8875da-d8bf-475e-b7c8-4965d677951a" />  
+
+
+# Access to Prisma Access
+<img width="954" height="448" alt="image" src="https://github.com/user-attachments/assets/6a063d12-ceed-45a1-9f51-a03a86179d09" />  
+<img width="952" height="452" alt="image" src="https://github.com/user-attachments/assets/d9365efa-f316-4417-bf21-7883ff1e5882" />  
+<img width="950" height="443" alt="image" src="https://github.com/user-attachments/assets/f94a11b0-9ce1-4b44-8852-2e934c4e1265" />  
+<img width="956" height="450" alt="image" src="https://github.com/user-attachments/assets/05952e2b-b2c4-40e2-b526-22f7c435cf8a" />  
+<img width="952" height="448" alt="image" src="https://github.com/user-attachments/assets/5bd46432-02e2-4eae-bf60-290f2fdf02b8" />
+<img width="953" height="449" alt="image" src="https://github.com/user-attachments/assets/d77a185b-72ae-4c58-b79d-5830add0a189" />  
+<img width="687" height="281" alt="image" src="https://github.com/user-attachments/assets/5451bc49-4a9a-4b6c-ad7e-2fb9b991803b" />  
+<img width="953" height="448" alt="image" src="https://github.com/user-attachments/assets/95849027-fa34-4b58-984e-2071c75248cb" />  
+
+
+
+
+
+
+
+
 
 
 
