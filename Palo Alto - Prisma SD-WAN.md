@@ -97,6 +97,15 @@ feature: ok
 licenses.tar.gz: ok
 Booting hd0,gpt7 at 2026-08-31 08:46:42 Monday
 
+dump software status
+<img width="521" height="65" alt="image" src="https://github.com/user-attachments/assets/dfb3a4c6-c412-4e5d-9bce-4a6e43828682" />  
+
+dump device status
+<img width="599" height="101" alt="image" src="https://github.com/user-attachments/assets/94e31ffb-4477-466e-9dd7-175902a5f50a" />  
+
+dump device info
+<img width="579" height="211" alt="image" src="https://github.com/user-attachments/assets/618f63ff-ead0-478d-9199-293e77d8a8f2" />  
+
 
 
 
