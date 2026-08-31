@@ -95,6 +95,16 @@ Activate SCM
 
 Claim SCM
 <img width="952" height="496" alt="image" src="https://github.com/user-attachments/assets/b72ea6c7-4cd3-43ca-bb64-10faaff826ae" />  
+<img width="953" height="522" alt="image" src="https://github.com/user-attachments/assets/29c3f131-f759-46a5-a3eb-3284b61fe487" />  
+<img width="957" height="500" alt="image" src="https://github.com/user-attachments/assets/8188b300-58f3-4234-a7e4-357b2ae9de1b" />  
+<img width="955" height="521" alt="image" src="https://github.com/user-attachments/assets/15bc5bfb-3f90-41ab-91bc-89871e9f8cb4" />  
+
+Check the controller status
+<img width="505" height="145" alt="image" src="https://github.com/user-attachments/assets/aa9aee53-91cd-4753-8cae-3524a36cc14d" />  
+
+<img width="952" height="403" alt="image" src="https://github.com/user-attachments/assets/e8656089-c2d7-4807-9233-6034027bac89" />  
+<img width="938" height="479" alt="image" src="https://github.com/user-attachments/assets/df2e2412-77c9-4d66-8262-4caebe081841" />  
+
 
 
 
