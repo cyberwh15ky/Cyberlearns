@@ -15,3 +15,7 @@ hackle628)bags
 <img width="157" height="68" alt="image" src="https://github.com/user-attachments/assets/7afaa579-2198-4ef3-8f97-c0d805144ec1" />  
 
 
+<img width="317" height="115" alt="image" src="https://github.com/user-attachments/assets/7456cc87-e18c-4e4f-89e4-e30bffa10c6d" />  
+
+
+第一步: 先上網，之後會出現 多次自動還原原廠
