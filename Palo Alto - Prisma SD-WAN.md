@@ -106,6 +106,20 @@ Check the controller status
 <img width="938" height="479" alt="image" src="https://github.com/user-attachments/assets/df2e2412-77c9-4d66-8262-4caebe081841" />  
 
 
+Upgrade Software
+<img width="958" height="422" alt="image" src="https://github.com/user-attachments/assets/7c9c9b08-bf62-4ca5-aa80-9bb2cb811ebd" />  
+<img width="946" height="349" alt="image" src="https://github.com/user-attachments/assets/1a6b2809-3da1-4291-a8e7-7fc705224d36" />  
+<img width="956" height="383" alt="image" src="https://github.com/user-attachments/assets/0cb33a41-5a45-4a48-9ba4-666071492dfa" />  
+<img width="952" height="381" alt="image" src="https://github.com/user-attachments/assets/9cb0993d-beaf-4644-be81-448dbf6432f2" />  
+<img width="953" height="376" alt="image" src="https://github.com/user-attachments/assets/43659171-f269-478b-8541-d0347ace5aba" />  
+<img width="954" height="370" alt="image" src="https://github.com/user-attachments/assets/40d5f767-4169-4842-8121-84ba1f9c01f6" />  
+
+
+
+
+
+
+
 
 
 
