@@ -106,6 +106,32 @@ dump device status
 dump device info
 <img width="579" height="211" alt="image" src="https://github.com/user-attachments/assets/618f63ff-ead0-478d-9199-293e77d8a8f2" />  
 
+# Add Sites
+<img width="957" height="451" alt="image" src="https://github.com/user-attachments/assets/7e988493-2671-4b87-98f6-29ba9f9b5fc5" />  
+<img width="950" height="464" alt="image" src="https://github.com/user-attachments/assets/eacd99db-9f26-40dc-b785-1a6445b372ad" />  
+<img width="958" height="473" alt="image" src="https://github.com/user-attachments/assets/b6cfadd9-200a-4c21-8c7f-a1dfdcd9f4c9" />  
+<img width="950" height="588" alt="image" src="https://github.com/user-attachments/assets/065a18a8-21d6-4805-b448-9ffcaa40e044" />  
+<img width="953" height="585" alt="image" src="https://github.com/user-attachments/assets/9044c77f-0535-457a-9d32-d8066c1ad702" />  
+<img width="952" height="587" alt="image" src="https://github.com/user-attachments/assets/829a102c-496f-4211-bcff-437c298cf17c" />  
+<img width="955" height="595" alt="image" src="https://github.com/user-attachments/assets/0b642838-5520-47e3-a3ed-c42feddd39d8" />  
+<img width="952" height="588" alt="image" src="https://github.com/user-attachments/assets/c74e7f10-0f1c-4233-af59-e5a9c0eb16a3" />  
+
+## Add Device to Sites
+<img width="953" height="589" alt="image" src="https://github.com/user-attachments/assets/376a79ee-a9e3-491d-a010-d790b4c85028" />  
+<img width="956" height="584" alt="image" src="https://github.com/user-attachments/assets/fccb29db-516e-4f0e-a0bc-27bc95e17883" />  
+<img width="956" height="593" alt="image" src="https://github.com/user-attachments/assets/0b8875da-d8bf-475e-b7c8-4965d677951a" />  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
