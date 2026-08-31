@@ -93,6 +93,9 @@ Activate SCM
 <img width="787" height="509" alt="image" src="https://github.com/user-attachments/assets/d03081aa-65eb-4298-ad47-1c8f9a170875" />
 
 
+Claim SCM
+<img width="952" height="496" alt="image" src="https://github.com/user-attachments/assets/b72ea6c7-4cd3-43ca-bb64-10faaff826ae" />  
+
 
 
 
