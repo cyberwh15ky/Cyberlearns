@@ -154,6 +154,8 @@ dump cellular status all
 <img width="674" height="359" alt="image" src="https://github.com/user-attachments/assets/abc5b339-e7e1-48f2-8ef2-fb3bad602fd7" />  
 <img width="665" height="104" alt="image" src="https://github.com/user-attachments/assets/76561997-b9a7-4fc8-a7e9-aec3fe8b430f" />  
 <img width="632" height="341" alt="image" src="https://github.com/user-attachments/assets/ade5f8d6-d98a-4c6f-bfd9-0c897412cce7" />  
+<img width="735" height="258" alt="image" src="https://github.com/user-attachments/assets/c114ea46-a40d-4cfe-832e-1676966be437" />
+
 
 
 
