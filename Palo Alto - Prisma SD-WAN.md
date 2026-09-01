@@ -148,6 +148,20 @@ dump device info
 
 
 
+# Test SIM
+dump cellular status all
+<img width="617" height="376" alt="image" src="https://github.com/user-attachments/assets/07622364-82c2-4b90-8762-28d9057f85a8" />  
+<img width="674" height="359" alt="image" src="https://github.com/user-attachments/assets/abc5b339-e7e1-48f2-8ef2-fb3bad602fd7" />  
+<img width="665" height="104" alt="image" src="https://github.com/user-attachments/assets/76561997-b9a7-4fc8-a7e9-aec3fe8b430f" />  
+<img width="632" height="341" alt="image" src="https://github.com/user-attachments/assets/ade5f8d6-d98a-4c6f-bfd9-0c897412cce7" />  
+
+
+
+
+
+
+
+
 
 
 
